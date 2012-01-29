@@ -651,6 +651,7 @@ if(typeof(socketbug) === 'undefined')
 				if(application_id == application.id)
 				{
 					application_found = true;
+                    break;
 				}
 		  	}
 
